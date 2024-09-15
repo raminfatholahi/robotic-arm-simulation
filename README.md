@@ -12,7 +12,7 @@ Python 3.x
 PyBullet library
 
 Clone the repository:
-git clone https://github.com/YOUR-USERNAME/robotic-arm-simulation.git
+git clone https://github.com/raminfatholahi/robotic-arm-simulation.git
 
 cd robotic-arm-simulation
 
